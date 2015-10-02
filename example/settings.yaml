@@ -1,0 +1,10 @@
+---
+report: team_repos
+organization: OSCI-WG
+username: dcblack
+team_name: Owners
+comments:
+  - You will be prompted for your GitHub password or OAuth token
+  - You must be an organization owner to run this
+  - Reports currently supported: team members, org_members, team_repos
+  - File formats current supported: yaml
